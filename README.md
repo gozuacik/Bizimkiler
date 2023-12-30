@@ -120,3 +120,6 @@
 #### Z
 * **Zeynep** : Özge Özberk tarafından hayat verilen karakter.
 
+## Kaynaklar
+- ["Bizimkiler (dizi)"](https://tr.wikipedia.org/wiki/Bizimkiler_(dizi))
+- ["Bugay Film Arşiv"](https://web.archive.org/web/20150301180722/http://www.bugayfilm.com/tvdizi.htm)
