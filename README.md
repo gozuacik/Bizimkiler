@@ -26,6 +26,7 @@
 
 #### C
 * **Cafer** : Ercan Yazgan tarafından hayat verilen karakter.
+* **Canımın içi** : Cenap'ın insanlara hitap ederken kullandığı bir deyiş.
 * **Cem** : Akın Tunç (1989-1993) ve Eray Köseoğlu (1995-2002) tarafından hayat verilen karakter.
 * **Cemil** : Uğurtan Sayıner tarafından hayat verilen karakter.
 * **Cenap** : Rutkay Aziz tarafından hayat verilen karakter.
