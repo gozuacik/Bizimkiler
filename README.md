@@ -62,6 +62,7 @@
 * Yok
 
 #### K
+* **Kalkın çabuk! Öğlen oldu** : Yandan Çarklı Halil Efendi oğullarına seslenir. Oysa ki saat daha sabahın 6'sıdır.
 
 #### L
 * **Leyla** : Güzin Özipek tarafından hayat verilen karakter.
